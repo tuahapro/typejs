@@ -1,0 +1,90 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+.colorCG{
+    width: 100%;
+    height: auto;
+    background-color: #00263b;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    padding: 20px;
+ 
+}
+
+.heading{
+    width: 100px;
+    height: 100px;
+    padding: 10px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background-color: wheat;
+    border-radius: 100px;
+    font-size: 50px;
+
+}
+.counter{
+    background-color:#00263b;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    padding: 20px;
+    column-gap: 20px;
+    
+    
+}
+.counter p{
+    text-align: center;
+    padding-top: 8px;
+    color: gray;
+}
+.counter1{
+    display: flex;
+    justify-content: center;  
+
+}
+.counter2{
+    display: flex;
+    justify-content: center;  
+
+}
+.counter3{
+    display: flex;
+    justify-content: center;  
+
+}
+.counterTop1{
+    width: 150px;
+    padding: 30px 0px;
+    background-color: wheat;
+    border-radius: 4px;
+   
+
+  
+   
+   
+}
+.counterTop2{
+    width: 150px;
+    padding: 30px 0px;
+    background-color: wheat;
+    border-radius: 4px;
+}
+.counterTop3{
+    width: 150px;
+    padding: 30px 0px;
+    background-color: wheat;
+    border-radius: 4px;
+}
+.type{
+    background-color:#00263b;
+    padding: 20px 0px;
+    height: auto;
+
+}
+.typeAni{
+    background-color: wheat;
+    text-align: center;
+}
